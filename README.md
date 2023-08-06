@@ -20,7 +20,7 @@ I am an enthusiastic and dedicated individual, driven by a strong desire to esta
 
 ### Connect with Me
 
-<div style="display: flex; flex-direction: column; align-items: center;">
+<div>
     [<img src="https://img.shields.io/badge/Portfolio-gray?style=for-the-badge" alt="Portfolio" />]()
     <br>
     [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://www.linkedin.com/in/dao-ngoc-vu-734992223/)
