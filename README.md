@@ -19,7 +19,6 @@ I am an enthusiastic and dedicated individual, driven by a strong desire to esta
 
 
 ### Connect with Me
-
 [<img src="https://img.shields.io/badge/Portfolio-gray?style=for-the-badge" alt="Portfolio" />]()
 [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://www.linkedin.com/in/dao-ngoc-vu-734992223/)
 [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />](https://www.facebook.com/ngoc.vu.14.03/)
