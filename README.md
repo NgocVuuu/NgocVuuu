@@ -8,7 +8,9 @@ Let's Build Together! 💡
 
 #### Current Projects
 > VH Pharma - Website Drug Store.
+
 > Movie Theater - ReactJS & API.
+
 > Blog - Nodejs(ExpressJS), MongoDB.
 
 #### Tools & Technologies
