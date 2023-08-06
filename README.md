@@ -1,12 +1,18 @@
-### Hi there I'm Ngoc Vu 👋
-I am an enthusiastic and dedicated individual, driven by a strong desire to establish a fulfilling career in front-end web development. My focus lies predominantly on the front-end aspect, and I take immense pleasure in crafting engaging experiences on the web. My educational journey has equipped me with a robust comprehension of web development principles, which I have earnestly applied to real-world scenarios and projects during my leisure time. Currently, I am relentlessly enhancing my skill set, fueled by a deep-seated passion for creating sleek and user-friendly designs. The prospect of collaborating with exceptional developers within a reputable company, one that offers avenues for professional advancement, fills me with excitement. I am eager to elevate my knowledge and expertise to new heights while contributing to the team's success.
+### Hi there, I'm Ngoc Vu! 👋
 
-### Current Projects
-> 
->
-> 
+Passionate Front-End Developer 🚀
 
-### Tools & Technologies
+I'm on a journey to carve a fulfilling career in the realm of front-end web development. My playground is the user interface – where I thrive in shaping captivating digital experiences. My educational background has endowed me with a firm grasp of web development principles, which I've joyfully translated into real-world projects during my leisure time. Driven by an unquenchable thirst for sleek and user-centric designs, I'm continuously leveling up my skills.
+
+Let's Build Together! 💡
+
+#### Current Projects
+* Goodall - Crafting a captivating e-commerce website using the MERN stack, Tailwind CSS, and Redux Toolkit.
+* Flavour Flow - A recipe hub where ingredients spark culinary creativity.
+* WeatherCity - Unveiling real-time weather with React and API magic.
+* YusofCodes - My personal portfolio, a canvas for creativity and innovation.
+
+#### Tools & Technologies
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
@@ -16,7 +22,6 @@ I am an enthusiastic and dedicated individual, driven by a strong desire to esta
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-
 
 ### Connect with Me
 <div style="display: flex; flex-direction: column; align-items: center;">
@@ -39,8 +44,3 @@ I am an enthusiastic and dedicated individual, driven by a strong desire to esta
         Email: vupaul2001@gmail.com
     </div>
 </div>
-
-
-
-
-
