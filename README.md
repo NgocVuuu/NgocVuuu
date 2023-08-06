@@ -7,9 +7,9 @@ I'm on a journey to carve a fulfilling career in the realm of front-end web deve
 Let's Build Together! 💡
 
 #### Current Projects
-> VH Pharma - Website Drug Store 
-> Movie Theater - ReactJS & API
-> Blog - Nodejs(ExpressJS), MongoDB
+> VH Pharma - Website Drug Store.
+> Movie Theater - ReactJS & API.
+> Blog - Nodejs(ExpressJS), MongoDB.
 
 #### Tools & Technologies
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
