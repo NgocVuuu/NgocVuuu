@@ -1,7 +1,5 @@
 ### Hi there, I'm Ngoc Vu! 👋
 
-![Developer](https://image-url.com/developer-image)
-
 Passionate Front-End Developer 🚀
 
 I'm on a journey to carve a fulfilling career in the realm of front-end web development. My playground is the user interface – where I thrive in shaping captivating digital experiences. My educational background has endowed me with a firm grasp of web development principles, which I've joyfully translated into real-world projects during my leisure time. Driven by an unquenchable thirst for sleek and user-centric designs, I'm continuously leveling up my skills.
@@ -9,9 +7,9 @@ I'm on a journey to carve a fulfilling career in the realm of front-end web deve
 Let's Build Together! 💡
 
 #### Current Projects
-> ![VH Pharma](https://image-url.com/vh-pharma-image) - Website Drug Store 
-> ![Movie Theater](https://image-url.com/movie-theater-image) - ReactJS & API
-> ![Blog](https://image-url.com/blog-image) - Nodejs(ExpressJS), MongoDB
+> VH Pharma - Website Drug Store 
+> Movie Theater - ReactJS & API
+> Blog - Nodejs(ExpressJS), MongoDB
 
 #### Tools & Technologies
 ![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
