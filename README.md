@@ -19,16 +19,27 @@ I am an enthusiastic and dedicated individual, driven by a strong desire to esta
 
 
 ### Connect with Me
-
-<div>
-    [<img src="https://img.shields.io/badge/Portfolio-gray?style=for-the-badge" alt="Portfolio" />]()
-    <br>
-    [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://www.linkedin.com/in/dao-ngoc-vu-734992223/)
-    <br>
-    [<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />](https://www.facebook.com/ngoc.vu.14.03/)
-    <br>
-    Email: vupaul2001@gmail.com
+<div style="display: flex; flex-direction: column; align-items: center;">
+    <div>
+        <a href="#">
+            <img src="https://img.shields.io/badge/Portfolio-gray?style=for-the-badge" alt="Portfolio">
+        </a>
+    </div>
+    <div>
+        <a href="https://www.linkedin.com/in/dao-ngoc-vu-734992223/">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+        </a>
+    </div>
+    <div>
+        <a href="https://www.facebook.com/ngoc.vu.14.03/">
+            <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+        </a>
+    </div>
+    <div>
+        Email: vupaul2001@gmail.com
+    </div>
 </div>
+
 
 
 
