@@ -19,8 +19,8 @@ I am an enthusiastic and dedicated individual, driven by a strong desire to esta
 
 
 ### Connect with Me
-[Portfolio]()
-[LinkedIn](https://www.linkedin.com/in/dao-ngoc-vu-734992223/)
-[Facebook](https://www.facebook.com/ngoc.vu.14.03/)
+[Portfolio]().
+[LinkedIn](https://www.linkedin.com/in/dao-ngoc-vu-734992223/).
+[Facebook](https://www.facebook.com/ngoc.vu.14.03/).
 Email: vupaul2001@gmail.com
 
