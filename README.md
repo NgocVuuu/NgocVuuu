@@ -19,31 +19,31 @@ I am an enthusiastic and dedicated individual, driven by a strong desire to esta
 ### Tools & Technologies
 <div style="display: flex; gap: 15px; align-items: center;">
     <div style="width: 50px; height: 50px; border-radius: 50%; overflow: hidden;">
-        <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" style="width: 100%; height: 100%;">
+        <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" style="width: 100%; height: 100%;">
     </div>
     <div style="width: 50px; height: 50px; border-radius: 50%; overflow: hidden;">
-        <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" alt="CSS3" style="width: 100%; height: 100%;">
+        <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3" alt="CSS3" style="width: 100%; height: 100%;">
     </div>
     <div style="width: 50px; height: 50px; border-radius: 50%; overflow: hidden;">
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" style="width: 100%; height: 100%;">
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" style="width: 100%; height: 100%;">
     </div>
     <div style="width: 50px; height: 50px; border-radius: 50%; overflow: hidden;">
-        <img src="https://img.shields.io/badge/-React-61DAFB?style=popout&logo=react&logoColor=black" alt="React" style="width: 100%; height: 100%;">
+        <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React" style="width: 100%; height: 100%;">
     </div>
     <div style="width: 50px; height: 50px; border-radius: 50%; overflow: hidden;">
-        <img src="https://img.shields.io/badge/-Node.js-339933?style=plastic&logo=node.js&logoColor=white" alt="Node.js" style="width: 100%; height: 100%;">
+        <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" style="width: 100%; height: 100%;">
     </div>
     <div style="width: 50px; height: 50px; border-radius: 50%; overflow: hidden;">
-        <img src="https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" style="width: 100%; height: 100%;">
+        <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white" alt="Express.js" style="width: 100%; height: 100%;">
     </div>
     <div style="width: 50px; height: 50px; border-radius: 50%; overflow: hidden;">
-        <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" style="width: 100%; height: 100%;">
+        <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" style="width: 100%; height: 100%;">
     </div>
     <div style="width: 50px; height: 50px; border-radius: 50%; overflow: hidden;">
-        <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?style=plastic&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="width: 100%; height: 100%;">
+        <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="width: 100%; height: 100%;">
     </div>
     <div style="width: 50px; height: 50px; border-radius: 50%; overflow: hidden;">
-        <img src="https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux Toolkit" style="width: 100%; height: 100%;">
+        <img src="https://img.shields.io/badge/-Redux%20Toolkit-764ABC?logo=redux&logoColor=white" alt="Redux Toolkit" style="width: 100%; height: 100%;">
     </div>
 </div>
 
