@@ -19,31 +19,31 @@ I am an enthusiastic and dedicated individual, driven by a strong desire to esta
 ### Tools & Technologies
 <div style="display: flex; gap: 15px; align-items: center;">
     <div style="width: 50px; height: 50px; border-radius: 50%; overflow: hidden;">
-        <img src="https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white" alt="HTML5" style="width: 20%; height: 20%;">
+        <img src="[https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white](https://www.flaticon.com/free-icon/html_1051277)" alt="HTML5" style="width: 20%; height: 20%;">
     </div>
     <div style="width: 50px; height: 50px; border-radius: 50%; overflow: hidden;">
-        <img src="https://img.shields.io/badge/-CSS3-1572B6?logo=css3" alt="CSS3" style="width: 20%; height: 20%;">
+        <img src="[https://img.shields.io/badge/-CSS3-1572B6?logo=css3](https://www.flaticon.com/free-icon/css-3_732190)" alt="CSS3" style="width: 20%; height: 20%;">
     </div>
     <div style="width: 50px; height: 50px; border-radius: 50%; overflow: hidden;">
-        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript" style="width: 20%; height: 20%;">
+        <img src="[https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black](https://www.flaticon.com/free-icon/js_5968292)" alt="JavaScript" style="width: 20%; height: 20%;">
     </div>
     <div style="width: 50px; height: 50px; border-radius: 50%; overflow: hidden;">
-        <img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black" alt="React" style="width: 20%; height: 20%;">
+        <img src="[https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black](https://www.flaticon.com/free-icon/science_760457)" alt="React" style="width: 20%; height: 20%;">
     </div>
     <div style="width: 50px; height: 50px; border-radius: 50%; overflow: hidden;">
-        <img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white" alt="Node.js" style="width: 20%; height: 20%;">
+        <img src="[https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white](https://www.flaticon.com/free-icon/node-js_5968322)" alt="Node.js" style="width: 20%; height: 20%;">
     </div>
     <div style="width: 50px; height: 50px; border-radius: 50%; overflow: hidden;">
-        <img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white" alt="Express.js" style="width: 20%; height: 20%;">
+        <img src="[https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white](https://icons8.com/icon/kg46nzoJrmTR/express-js)" alt="Express.js" style="width: 20%; height: 20%;">
     </div>
     <div style="width: 50px; height: 50px; border-radius: 50%; overflow: hidden;">
-        <img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white" alt="MongoDB" style="width: 20%; height: 20%;">
+        <img src="[https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white](https://icons8.com/icon/74402/mongodb)" alt="MongoDB" style="width: 20%; height: 20%;">
     </div>
     <div style="width: 50px; height: 50px; border-radius: 50%; overflow: hidden;">
-        <img src="https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white" alt="Tailwind CSS" style="width: 20%; height: 20%;">
+        <img src="[https://img.shields.io/badge/-Tailwind%20CSS-38B2AC?logo=tailwind-css&logoColor=white](https://icons8.com/icon/4PiNHtUJVbLs/tailwind-css)" alt="Tailwind CSS" style="width: 20%; height: 20%;">
     </div>
     <div style="width: 50px; height: 50px; border-radius: 50%; overflow: hidden;">
-        <img src="https://img.shields.io/badge/-Redux%20Toolkit-764ABC?logo=redux&logoColor=white" alt="Redux Toolkit" style="width: 20%; height: 20%;">
+        <img src="[https://img.shields.io/badge/-Redux%20Toolkit-764ABC?logo=redux&logoColor=white](https://icons8.com/icon/jD-fJzVguBmw/redux)" alt="Redux Toolkit" style="width: 20%; height: 20%;">
     </div>
 </div>
 
